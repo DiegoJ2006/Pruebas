@@ -1,6 +1,9 @@
-body{
+header{
     background-color: red;
     font-size: large;
     text-align: center;
-    color: blue;
+    color: rgb(0, 0, 0);
+}
+main{
+    margin-top: 4%;
 }
